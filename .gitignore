@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# PyInstaller output
+build/
+dist/
+
+# Local save data (if MOTL_HOME points here)
+save.json
+save.json.broken
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
